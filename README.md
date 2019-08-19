@@ -15,10 +15,18 @@ Além de nossos três produtos principais, KeyApp, InSight Now e a plataforma Pr
 [Conheça mais sobre nossos projetos e o que fazemos](https://cyberlabs.ai) 💙
 
 ---
-
-
-DESAFIO
-
+Your mission is to build a prediction model that can predict the presence of a disease in the
+patient through the dataset provided using Tensorflow, SciKit-Learn, Keras or any other
+programing tool you find necessary. The code should be written in Python, JavaScript or C .
+The dataset consists of 14 columns, the first 13 columns are inputs to the model and the 14th
+column is a binary output.
+The code must contain a test script to evaluate the model’s accuracy.
+You may also use any technique you find necessary on achieving the highest possible
+accuracy without overfitting your model.
+Best of luck!
+AI Dev Team at CyberLabs
+Tips and Keywords: SVM, Decision Tree, Random Forest, Naive Bayes, Nearest Neighbors,
+MLP, Neural Network, Linear Regression, Logistic Regression, Stochastic Gradient Descent.
 
 ---
 
