@@ -27,7 +27,7 @@ Um bom desafio a todos!
 AI Dev Team CyberLabs
 
 Dicas e Keywords: SVM, Decision Tree, Random Forest, Naive Bayes, Nearest Neighbors,
-MLP, Neural Network, Linear Regression, Logistic Regression, Stochastic Gradient Descent, XGBoost.
+MLP, Neural Network, Logistic Regression, Stochastic Gradient Descent, XGBoost.
 
 ---
 
